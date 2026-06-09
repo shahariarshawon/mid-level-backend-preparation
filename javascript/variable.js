@@ -20,3 +20,4 @@ console.log(value);
 const name = "Arafat";
 // name = "shawon";
 console.log(name);
+// boolean value
