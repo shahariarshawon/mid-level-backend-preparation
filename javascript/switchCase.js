@@ -17,7 +17,7 @@ switch (status) {
         break
 
     default:
-        console.log("Satus is unknown")
+        console.log("Satus is unknownnnnn")
 
 
 }
