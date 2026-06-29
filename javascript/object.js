@@ -9,3 +9,5 @@ const student = {
     }
 }
 student.isLoggedIn()
+// destructuring
+const {name,isMarried}=user;
